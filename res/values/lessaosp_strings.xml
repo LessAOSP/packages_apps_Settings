@@ -23,4 +23,5 @@
     <!-- LessAOSP version -->
     <string name="lessaosp_version">LessAOSP version</string>
     <string name="lessaosp_version_default">Unknown</string>
+    <string name="build_date">Build date</string>
 </resources>
