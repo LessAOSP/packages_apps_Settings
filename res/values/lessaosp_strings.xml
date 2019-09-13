@@ -19,4 +19,8 @@
     <string name="selinux_status_disabled">Disabled</string>
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
+
+    <!-- LessAOSP version -->
+    <string name="lessaosp_version">LessAOSP version</string>
+    <string name="lessaosp_version_default">Unknown</string>
 </resources>
