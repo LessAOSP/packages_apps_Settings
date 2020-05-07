@@ -10,4 +10,6 @@
     <string name="backup_transport_setting_label">Change backup provider</string>
     <string name="backup_transport_title">Select backup provider</string>
 
+    <!-- LessAOSP maintainer -->
+    <string name="maintainer">Maintainer</string>
 </resources>
