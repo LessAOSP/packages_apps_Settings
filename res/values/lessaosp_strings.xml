@@ -12,4 +12,5 @@
 
     <!-- LessAOSP maintainer -->
     <string name="maintainer">Maintainer</string>
+    <string name="lessaosp_maintainer">Unofficial Maintainer</string>
 </resources>
